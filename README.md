@@ -17,6 +17,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
+<br><br>
+
+[![My Skills](https://skillicons.dev/icons?i=python, tensorflow, pytorch)]
+[![My Skills](https://skillicons.dev/icons?i=javascript, typescript, react)]
+[![My Skills](https://skillicons.dev/icons?i=java, spring, nodejs)]
 
 <!--
 <div align="left">
