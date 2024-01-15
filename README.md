@@ -18,11 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 <br><br>
-
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react)](https://skillicons.dev)
-![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs)
-
 <!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
