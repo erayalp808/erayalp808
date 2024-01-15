@@ -19,9 +19,9 @@
 </div>
 <br><br>
 
-![My Skills](https://skillicons.dev/icons?i=python, tensorflow, pytorch)
-![My Skills](https://skillicons.dev/icons?i=javascript, typescript, react)
-![My Skills](https://skillicons.dev/icons?i=java, spring, nodejs)
+[![My Skills](https://skillicons.dev/icons?i=python, tensorflow, pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript, typescript, react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java, spring, nodejs)](https://skillicons.dev)
 
 <!--
 <div align="left">
