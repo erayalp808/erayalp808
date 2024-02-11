@@ -1,7 +1,7 @@
 # Hi! My name is Eray Alp.
 I am a Computer Engineering student based in Istanbul, Turkey.
 <br>
-* Computer Engineering student at Istanbul Bilgi University, disciplined and passionate about computer science. My goal is to specialize on Machine Learning/Deep Learning and Computer Vision.
+* My goal is to specialize on Machine Learning/Deep Learning and Computer Vision.
 * Currently learning ML tools and the Deep Learning framework TensorFlow to create advanced models.
 * Experienced in full-stack development with a strong foundation in JavaScript/TypeScript, React.js, and Node.js.
 * In my free time I'm interested in music and calisthenics.
