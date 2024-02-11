@@ -2,7 +2,7 @@
 📍 I am a Computer Engineering student based in Istanbul, Turkey.
 <br><br>
 🎯 My goal is to specialize on Machine Learning/Deep Learning and Computer Vision.<br>
-📚 Currently learning ML tools and the Deep Learning framework TensorFlow to create advanced models.<br>
+📚 Currently learning ML tools and the Deep Learning framework TensorFlow.<br>
 👨🏻‍💻 Experienced in full-stack development with a strong foundation in JavaScript/TypeScript, React.js, and Node.js.<br>
 
 ### Skills
