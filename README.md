@@ -40,4 +40,6 @@ I am a Computer Engineering student based in Istanbul, Turkey.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-###
+
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/erayalp)!
+
