@@ -2,8 +2,8 @@
 I am a Computer Engineering student based in Istanbul, Turkey.
 <br>
 ## About Me
-- 🎯 My goal is to specialize in Software Engineering, Machine Learning and Natural Language Processing.<br>
-- 📚 I am currently learning about ML tools, neural network architectures, data engineering, distributed systems and different deep learning approaches to build advanced models and data driven applications.<br>
+- 🎯 I’m a Software Engineer passionate about building intelligent, scalable, and production-ready systems. With a strong foundation in machine learning and NLP, I specialize in applying modern AI techniques to solve real-world problems.<br>
+- 📚 I am currently learning about reasoning in LLMs, Agentic Systems and Information Retrieval.<br>
 - 👨🏻‍💻 I have hands-on experience and knowledge about software development with a strong foundation in software architecture, design principles and various technologies/frameworks.<br>
 
 ## Skills
@@ -14,12 +14,12 @@ I am a Computer Engineering student based in Istanbul, Turkey.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" alt="hugging face logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="40" alt="hugging face logo"  />
-  <img width="12" /> <br>
+  <img width="12" /><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
