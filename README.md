@@ -52,6 +52,6 @@ I am a Computer Engineering student based in Istanbul, Turkey.
 
 ###
 ### Connect with me on [LinkedIn](https://www.linkedin.com/in/erayalp)!
-### <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="24" alt="hugging face logo"/> Huggingface: [erayalp](https://huggingface.co/erayalp)
+### Connect with me on [🤗 Hugging Face](https://huggingface.co/erayalp)!
 
 
