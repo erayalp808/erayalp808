@@ -3,7 +3,7 @@ I am a Computer Engineering student based in Istanbul, Turkey.
 <br>
 ## About Me
 - 🎯 I’m a Software Engineer passionate about building intelligent, scalable, and production-ready systems. With a strong foundation in machine learning and NLP, I specialize in applying modern AI techniques to solve real-world problems.<br>
-- 📚 I am currently learning about Agentic Systems, Information Retrieval and reasoning in LLMs.<br>
+- 📚 I am currently learning about Agentic Systems, Information Retrieval and Reasoning Models.<br>
 ### My key areas of interest:<br>
 - Machine Learning Engineering & NLP
 - Scalable Backend/API Development
