@@ -3,7 +3,9 @@ I am a Computer Engineering student based in Istanbul, Turkey.
 <br>
 ## About Me
 I’m a Software Engineer passionate about building intelligent, scalable, and production-ready systems. With a strong foundation in machine learning and NLP, I specialize in applying modern AI techniques to solve real-world problems.
-My experience spans both engineering and applied ML. At Insider, I helped build and improve semantic search systems used in e-commerce, integrating transformer models, scalable APIs, and cloud-native tools like AWS and Elasticsearch. On the academic side, I contribute to NLP projects at COSMOS AI (Yıldız Technical University), focusing on enhancing reasoning capabilities in Turkish LLMs with reinforcement learning and structured decision-making.<br>
+My experience spans both engineering and applied ML.
+
+At Insider, I helped build and improve semantic search systems used in e-commerce, integrating transformer models, scalable APIs, and cloud-native tools like AWS and Elasticsearch. On the academic side, I contribute to NLP projects at COSMOS AI (Yıldız Technical University), focusing on enhancing reasoning capabilities in Turkish LLMs with reinforcement learning and structured decision-making.<br>
 ### My key areas of interest:<br>
 - Machine Learning Engineering & NLP
 - Scalable Backend/API Development
